@@ -8,6 +8,13 @@
       "when": 1737217949125,
       "tag": "0000_lowly_lester",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1747144562161,
+      "tag": "0001_open_big_bertha",
+      "breakpoints": true
     }
   ]
 }
